@@ -1,0 +1,3 @@
+SDTR:
+
+Sistem de monitorizare a generarii energiei solare
