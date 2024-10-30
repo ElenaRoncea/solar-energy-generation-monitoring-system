@@ -1,0 +1,3 @@
+Titlu: Sistem de monitorizare a generării energiei solare
+
+Acest proiect are ca scop dezvoltarea unui sistem de monitorizare a generării energiei solare, utilizând un microcontroller Infinenon XMC1100, care va comunica prin protocolul Bluetooth. Sistemul va colecta date despre producția de energie și condițiile de mediu, permițând utilizatorilor să acceseze informațiile de pe un dispozitiv mobil. Proiectul va include o aplicație mobilă care va vizualiza datele în timp real. Detalii și cod sursă vor fi disponibile la linkul de GitHub: https://github.com/ElenaRoncea/solar-energy-generation-monitoring-system.
