@@ -1,5 +1,0 @@
-SDTR:
-
-Sistem de monitorizare a generarii energiei solare
-
-Microcontroller utilizat: Infinenon XMC1100
